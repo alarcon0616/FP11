@@ -1,7 +1,7 @@
 #include  <stdio.h>
 
-main{
-
+main()
+{
 /*Secciòn de variables*/
 
 
